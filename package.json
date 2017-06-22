@@ -11,6 +11,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme.git"
+	},
     "contributes": {
         "themes": [
             {
