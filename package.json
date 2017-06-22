@@ -1,0 +1,38 @@
+{
+    "name": "tomorrow-and-tomorrow-night-operator-mono-theme",
+    "displayName": "Tomorrow and Tomorrow Night Operator Mono Theme",
+    "description": "Copies of the Tomorrow and Tomorrow Night themes with settings to mark certain items as italics and bold",
+    "version": "0.0.1",
+    "publisher": "chiragpat",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "license": "MIT",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tomorrow Night Bright Operator Mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tomorrow_Night_Bright_OperatorMono.tmTheme"
+            },
+            {
+                "label": "Tomorrow Night Eighties Operator Mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tomorrow_Night_Eighties_OperatorMono.tmTheme"
+            },
+            {
+                "label": "Tomorrow Night Operator Mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tomorrow_Night_OperatorMono.tmTheme"
+            },
+            {
+                "label": "Tomorrow Operator Mono",
+                "uiTheme": "vs",
+                "path": "./themes/Tomorrow_OperatorMono.tmTheme"
+            }
+        ]
+    }
+}
