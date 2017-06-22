@@ -163,8 +163,6 @@
 			<string>keyword, storage, storage.type, entity.name.tag.css</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#B294BB</string>
 			</dict>

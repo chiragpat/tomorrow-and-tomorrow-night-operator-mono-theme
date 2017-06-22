@@ -163,8 +163,6 @@
 			<string>keyword, storage, storage.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#8959A8</string>
 			</dict>
