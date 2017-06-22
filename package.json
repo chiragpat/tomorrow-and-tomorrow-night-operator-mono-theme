@@ -2,7 +2,7 @@
     "name": "tomorrow-and-tomorrow-night-operator-mono-theme",
     "displayName": "Tomorrow and Tomorrow Night Operator Mono Theme",
     "description": "Copies of the Tomorrow and Tomorrow Night themes with settings to mark certain items as italics and bold",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "chiragpat",
     "engines": {
         "vscode": "^1.13.0"
