@@ -19,4 +19,4 @@ Make sure you have the Operator Mono font installed and have this setting on vsc
 
 ## Tomorrow Night Eighties
 
-![](https://raw.githubusercontent.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme/master/images/Tomorrow-Night-Eighties-preview.png)
+![](https://raw.githubusercontent.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme/master/images/eighties-preview.png)
